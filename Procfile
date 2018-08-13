@@ -1,1 +1,1 @@
-worker: node fabio-discord-bot.js
+worker: node music.js
